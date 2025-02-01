@@ -30,3 +30,16 @@ The app allows users to easily create, edit, delete, and search through their ex
 
 ## Preview 
 ![Image](https://github.com/user-attachments/assets/0db96982-5ef3-447f-a77e-b47f3dac33fb)
+
+
+## Screenshots 📸
+----------------
+
+| Splash Screen | Note Home Screen | Note Add Screen |
+|----------------|--------------|----------------|
+| ![Splash Screen](https://github.com/user-attachments/assets/1c0fca3d-a9cd-4e5c-85df-cc885087e76d) | ![Login Screen](https://github.com/user-attachments/assets/a55ecd2f-f15b-4db1-bde1-94ab78f9f1ff) | ![News Headlines](https://github.com/user-attachments/assets/41896bdf-d985-4b09-998a-2cd4a5c9cd72) |
+
+| Note Edit Screen | Note Delete Screen | News Detail |
+|-------------|---------------|------------------|
+| ![News Detail](https://github.com/user-attachments/assets/a0cfce32-3634-4405-be32-77eed2371fef) | ![Favorite News](https://github.com/user-attachments/assets/f1e4a15b-008a-496b-9218-2860284a1767) | ![Additional Image](https://github.com/user-attachments/assets/b7b25a24-d278-4409-9bb0-7a0ff6a76bf0) |
+
