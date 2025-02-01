@@ -1,4 +1,4 @@
-# Notes App
+# Notes App 📝
 -------------
 The app allows users to easily create, edit, delete, and search through their existing notes. Users can add new notes, edit or delete their existing notes. Additionally, they can use the search functionality to quickly find their notes. The app is designed with a user-friendly interface, making note management very simple.
 
