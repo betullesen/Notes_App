@@ -33,13 +33,28 @@ The app allows users to easily create, edit, delete, and search through their ex
 
 
 ## Screenshots 📸
-----------------
 
-| Splash Screen | Note Home Screen | Note Add Screen |
-|----------------|--------------|----------------|
-| ![Splash Screen](https://github.com/user-attachments/assets/1c0fca3d-a9cd-4e5c-85df-cc885087e76d) | ![Login Screen](https://github.com/user-attachments/assets/a55ecd2f-f15b-4db1-bde1-94ab78f9f1ff) | ![News Headlines](https://github.com/user-attachments/assets/41896bdf-d985-4b09-998a-2cd4a5c9cd72) |
+<table border="3">
+  <tr>
+    <th>Splash Screen</th>
+    <th>Note Home Screen</th>
+    <th>Note Add Screen</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1c0fca3d-a9cd-4e5c-85df-cc885087e76d" alt="Splash Screen" weight="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/a55ecd2f-f15b-4db1-bde1-94ab78f9f1ff" alt="Note Home Screen" weight="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/41896bdf-d985-4b09-998a-2cd4a5c9cd72" alt="Note Add Screen" weight="200"></td>
+  </tr>
+  <tr>
+    <th>Note Edit Screen</th>
+    <th>Note Delete Screen</th>
+    <th>Note Search Screen</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a0cfce32-3634-4405-be32-77eed2371fef" alt="Note Edit Screen" weight="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/f1e4a15b-008a-496b-9218-2860284a1767" alt="Note Delete Screen" weight="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/61224aca-168f-415a-b259-4f0bb78a5911" alt="Note Search Screen" weight="200"></td>
+  </tr>
+</table>
 
-| Note Edit Screen | Note Delete Screen | News Detail |
-|-------------|---------------|------------------|
-| ![News Detail](https://github.com/user-attachments/assets/a0cfce32-3634-4405-be32-77eed2371fef) | ![Favorite News](https://github.com/user-attachments/assets/f1e4a15b-008a-496b-9218-2860284a1767) | ![Additional Image](https://github.com/user-attachments/assets/b7b25a24-d278-4409-9bb0-7a0ff6a76bf0) |
 
