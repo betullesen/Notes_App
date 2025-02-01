@@ -27,3 +27,6 @@ The app allows users to easily create, edit, delete, and search through their ex
 - **[Handler and Looper](https://developer.android.com/reference/android/os/Handler)**: Used to wait for a specific amount of time on the Splash screen.
 - **[Navigation Safe Args](https://developer.android.com/guide/navigation/passing-data)**: Ensures safe data passing between fragments.
 - **[Gradle](https://gradle.org/)**: The build and dependency management tool used for Android projects. It handles project builds and dependency management.
+
+## Preview 
+![Image](https://github.com/user-attachments/assets/0db96982-5ef3-447f-a77e-b47f3dac33fb)
