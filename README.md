@@ -2,14 +2,14 @@
 -------------
 The app allows users to easily create, edit, delete, and search through their existing notes. Users can add new notes, edit or delete their existing notes. Additionally, they can use the search functionality to quickly find their notes. The app is designed with a user-friendly interface, making note management very simple.
 
-## Features
+## Features 📱
 - **Splash Screen**: A simple splash screen is displayed when the app is launched.
 - **Create Notes**: Users can create new notes by entering a title and description.
 - **Edit Notes**: Users can edit existing notes.
 - **Delete Notes**: Users can delete notes they no longer need.
 - **Search Notes**: Users can search for specific notes by title or description.
 
-## Used Technologies
+## Used Technologies 🛠️
 
 - **[Kotlin](https://kotlinlang.org/)**: The programming language for Android application development. A modern, secure, and efficient language widely used in Android app development.
 - **[Android SDK](https://developer.android.com/studio)**: The software development kit (SDK) required for developing Android applications. It provides the necessary tools to create applications for Android devices.
@@ -28,7 +28,7 @@ The app allows users to easily create, edit, delete, and search through their ex
 - **[Navigation Safe Args](https://developer.android.com/guide/navigation/passing-data)**: Ensures safe data passing between fragments.
 - **[Gradle](https://gradle.org/)**: The build and dependency management tool used for Android projects. It handles project builds and dependency management.
 
-## Preview 
+## Preview 🎞️
 ![Image](https://github.com/user-attachments/assets/0db96982-5ef3-447f-a77e-b47f3dac33fb)
 
 
